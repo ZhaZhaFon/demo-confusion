@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper *_Cracking Target Confusion in End-to-end Speaker Extraction*.
+This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_Cracking Target Confusion in End-to-end Speaker Extraction**.
 
 ---
 
