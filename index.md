@@ -7,13 +7,13 @@
 <center> 2 Peng Cheng Laboratory</center>
 
 ## Introduction
-This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_Cracking Target Confusion in End-to-end Speaker Extraction_**.
+This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_Cracking Target Confusion in End-to-end Speaker Extraction_**. In the following, we will show some cases in which the baseline model comes across with **_target confusion problem_**, and compare them with our results.
 
 ## Examples
 
 ### Female - Male Mixtures
 
-| <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center><center>ours</center> | <center>ground-truth</center> | 
+| <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center>proposed methods</center> | <center>ground-truth</center> | 
 | :--- | :--- | :--- | :--- | :--- |
 |<audio src="wavs/male2female/1320-122617-0035_121-121726-0009.wav" controls preload></audio>|<audio src="wavs/male2female/1320-122612-0010_2094-142345-0048.wav" controls preload></audio>|<audio src="wavs/male2female/baseline/1320-122617-0035_121-121726-0009_s0.wav" controls preload></audio>|<audio src="wavs/male2female/ours/1320-122617-0035_121-121726-0009_s0.wav" controls preload></audio>|<audio src="wavs/male2female/gt/1320-122617-0035_121-121726-0009.wav" controls preload></audio>|
 |<img src="wavs/male2female/1320-122617-0035_121-121726-0009.png"/>|<img src="wavs/male2female/1320-122612-0010_2094-142345-0048.png"/>|<img src="wavs/male2female/baseline/1320-122617-0035_121-121726-0009_s0.png"/>|<img src="wavs/male2female/ours/1320-122617-0035_121-121726-0009_s0.png"/>|<img src="wavs/male2female/gt/1320-122617-0035_121-121726-0009.png"/>|
@@ -24,7 +24,7 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 
 ### Male - Male Mixtures
 
-| <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center><center>ours</center> | <center>ground-truth</center> | 
+| <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center>proposed methods</center> | <center>ground-truth</center> | 
 | :--- | :--- | :--- | :--- | :--- |
 |<audio src="wavs/male2male/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|<audio src="wavs/male2male/6829-68769-0023_5105-28240-0012.wav" controls preload></audio>|<audio src="wavs/male2male/baseline/908-31957-0007_5105-28233-0000_s1.wav" controls preload></audio>|<audio src="wavs/male2male/ours/908-31957-0007_5105-28233-0000_s1.wav" controls preload></audio>|<audio src="wavs/male2male/gt/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|
 |<img src="wavs/male2male/908-31957-0007_5105-28233-0000.png"/>|<img src="wavs/male2male/6829-68769-0023_5105-28240-0012.png"/>|<img src="wavs/male2male/baseline/908-31957-0007_5105-28233-0000_s1.png"/>|<img src="wavs/male2male/ours/908-31957-0007_5105-28233-0000_s1.png"/>|<img src="wavs/male2male/gt/908-31957-0007_5105-28233-0000.png"/>|
@@ -35,7 +35,7 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 
 ### Female - Female Mixtures
 
-| <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center><center>ours</center> | <center>ground-truth</center> | 
+| <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center>proposed methods</center> | <center>ground-truth</center> | 
 | :--- | :--- | :--- | :--- | :--- |
 |<audio src="wavs/female2female/8463-287645-0013_5142-33396-0037.wav" controls preload></audio>|<audio src="wavs/female2female/8463-294828-0013_1221-135767-0021.wav" controls preload></audio>|<audio src="wavs/female2female/baseline/8463-287645-0013_5142-33396-0037_s0.wav" controls preload></audio>|<audio src="wavs/female2female/ours/8463-287645-0013_5142-33396-0037_s0.wav" controls preload></audio>|<audio src="wavs/female2female/gt/8463-287645-0013_5142-33396-0037.wav" controls preload></audio>|
 |<img src="wavs/female2female/8463-287645-0013_5142-33396-0037.png"/>|<img src="wavs/female2female/8463-294828-0013_1221-135767-0021.png"/>|<img src="wavs/female2female/baseline/8463-287645-0013_5142-33396-0037_s0.png"/>|<img src="wavs/female2female/ours/8463-287645-0013_5142-33396-0037_s0.png"/>|<img src="wavs/female2female/gt/8463-287645-0013_5142-33396-0037.png"/>|
