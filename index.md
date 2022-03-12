@@ -14,16 +14,10 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 | speech mixture | enrollment utterance | baseline | ours | ground-truth speech | 
 | :--- | :--- | :--- | :--- | :--- |
 |<audio src="wavs/male2male/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|<audio src="wavs/male2male/6829-68769-0023_5105-28240-0012.wav" controls preload></audio>|<audio src="wavs/male2male/baseline/908-31957-0007_5105-28233-0000_s1.wav" controls preload></audio>|<audio src="wavs/male2male/ours/908-31957-0007_5105-28233-0000_s1.wav" controls preload></audio>|<audio src="wavs/male2male/ours/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|
-|<img src="wavs/male2male/908-31957-0007_5105-28233-0000.png" max-width=100% height=auto/>|<img src="wavs/male2male/6829-68769-0023_5105-28240-0012.png"/>|<img src="wavs/male2male/baseline/908-31957-0007_5105-28233-0000_s1.png"/>|<img src="wavs/male2male/ours/908-31957-0007_5105-28233-0000_s1.png"/>|<img src="wavs/male2male/gt/908-31957-0007_5105-28233-0000.png"/>|
+|<img src="wavs/male2male/908-31957-0007_5105-28233-0000.png"/>|<img src="wavs/male2male/6829-68769-0023_5105-28240-0012.png"/>|<img src="wavs/male2male/baseline/908-31957-0007_5105-28233-0000_s1.png"/>|<img src="wavs/male2male/ours/908-31957-0007_5105-28233-0000_s1.png"/>|<img src="wavs/male2male/gt/908-31957-0007_5105-28233-0000.png"/>|
+|<audio src="wavs/male2male/4077-13754-0011_2300-131720-0008.wav" controls preload></audio>|<audio src="wavs/male2male/4077-13754-0011_2300-131720-0008.wav" controls preload></audio>|<audio src="wavs/male2male/baseline/1188-133604-0029_4077-13751-0006_s0.wav" controls preload></audio>|<audio src="wavs/male2male/ours/4077-13754-0011_2300-131720-0008_s0.wav" controls preload></audio>|<audio src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.wav" controls preload></audio>|
+|<img src="wavs/male2male/4077-13754-0011_2300-131720-0008.png"/>|<img src="wavs/male2male/1188-133604-0029_4077-13751-0006.png"/>|<img src="wavs/male2male/baseline/4077-13754-0011_2300-131720-0008_s0.png"/>|<img src="wavs/male2male/ours/4077-13754-0011_2300-131720-0008_s0.png"/>|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>|
 | --- | --- | --- | --- | --- |
-
-| | audio | spectrogram | 
-| :--- | :--- | :--- |
-| mixture|<audio src="wavs/male2male/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|<img src="wavs/male2male/908-31957-0007_5105-28233-0000.png" width=10000 height=auto/>|
-
-
-<img style="display: inline-block; width: 100%; max-width: 100%; height: auto;" src="wavs/male2male/908-31957-0007_5105-28233-0000.png"/>
-<img src="wavs/male2male/908-31957-0007_5105-28233-0000.png" style="width:500px;height:50px;">
 
 
 
