@@ -26,7 +26,7 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 
 | <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center><center>ours</center> | <center>ground-truth</center> | 
 | :--- | :--- | :--- | :--- | :--- |
-
+|<audio src="wavs/female2female/8463-287645-0013_5142-33396-0037.wav" controls preload></audio>|<audio src="wavs/female2female/8463-287645-0013_5142-33396-0037.wav" controls preload></audio>|<audio src="wavs/female2female/baseline/8463-287645-0013_5142-33396-0037_s0.wav" controls preload></audio>|<audio src="wavs/female2female/ours/8463-287645-0013_5142-33396-0037_s0.wav" controls preload></audio>|<audio src="wavs/female2female/gt/8463-287645-0013_5142-33396-0037.wav" controls preload></audio>|
 
 
 ## Sample : Male - Male
