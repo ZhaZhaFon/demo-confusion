@@ -50,5 +50,5 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 
 ### References
 
-[1] Delcroix M, Ochiai T, Zmolikova K, et al. Improving speaker discrimination of target speech extraction with time-domain speakerbeam[C]//ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020: 691-695.
+[1] Delcroix M, Ochiai T, Zmolikova K, et al. Improving speaker discrimination of target speech extraction with time-domain speakerbeam[C]//ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020: 691-695.  
 [2] Cosentino J, Pariente M, Cornell S, et al. Librimix: An open-source dataset for generalizable speech separation[J]. arXiv preprint arXiv:2005.11262, 2020.
