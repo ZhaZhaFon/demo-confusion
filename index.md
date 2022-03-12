@@ -14,7 +14,7 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 | speech mixture | enrollment utterance | baseline | ours | ground-truth speech | 
 | :--- | :--- | :--- | :--- | :--- |
 |<audio src="wavs/male2male/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|<audio src="wavs/male2male/6829-68769-0023_5105-28240-0012.wav" controls preload></audio>|<audio src="wavs/male2male/baseline/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|<audio src="wavs/male2male/ours/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|<audio src="wavs/male2male/ours/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|
-|<img src="wavs/male2male/908-31957-0007_5105-28233-0000.png"/>|<img src="wavs/male2male/6829-68769-0023_5105-28240-0012.png"/>|<img src="wavs/male2male/baseline/908-31957-0007_5105-28233-0000.png"/>|<img src="wavs/male2male/ours/908-31957-0007_5105-28233-0000.png"/>|<img src="wavs/male2male/gt/908-31957-0007_5105-28233-0000.png"/>|
+|<img src="wavs/male2male/908-31957-0007_5105-28233-0000.png"/>|<img src="wavs/male2male/6829-68769-0023_5105-28240-0012.png"/>|<img src="wavs/male2male/baseline/908-31957-0007_5105-28233-0000_s1.png"/>|<img src="wavs/male2male/ours/908-31957-0007_5105-28233-0000_s1.png"/>|<img src="wavs/male2male/gt/908-31957-0007_5105-28233-0000.png"/>|
 | --- | --- | --- | --- | --- |
 
 ## Model Overview
