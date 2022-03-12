@@ -33,66 +33,8 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 |<audio src="wavs/female2female/4446-2275-0042_3570-5696-0004.wav" controls preload></audio>|<audio src="wavs/female2female/3570-5695-0007_5105-28233-0001.wav" controls preload></audio>|<audio src="wavs/female2female/baseline/4446-2275-0042_3570-5696-0004_s1.wav" controls preload></audio>|<audio src="wavs/female2female/ours/4446-2275-0042_3570-5696-0004_s1.wav" controls preload></audio>|<audio src="wavs/female2female/gt/4446-2275-0042_3570-5696-0004.wav" controls preload></audio>|
 |<img src="wavs/female2female/4446-2275-0042_3570-5696-0004.png"/>|<img src="wavs/female2female/3570-5695-0007_5105-28233-0001.png"/>|<img src="wavs/female2female/baseline/4446-2275-0042_3570-5696-0004_s1.png"/>|<img src="wavs/female2female/ours/4446-2275-0042_3570-5696-0004_s1.png"/>|<img src="wavs/female2female/gt/4446-2275-0042_3570-5696-0004.png"/>|
 
-
-## Sample : Male - Male
-| <center>audio</center> | <center>spectrogram</center> |
-| :--- | :--- |
-|<center>mixture speech</center><center><audio src="wavs/male2male/4077-13754-0011_2300-131720-0008.wav" controls preload></audio></center>|<img src="wavs/male2male/4077-13754-0011_2300-131720-0008.png"/>|<center>enrollment utterance</center><audio src="wavs/male2male/1188-133604-0029_4077-13751-0006.wav" controls preload></audio></center>|<img src="wavs/male2male/1188-133604-0029_4077-13751-0006.png"/>|<center>baseline</center><center><audio src="wavs/male2male/baseline/1188-133604-0029_4077-13751-0006_s0.wav" controls preload></audio></center>|<img src="wavs/male2male/baseline/4077-13754-0011_2300-131720-0008_s0.png"/>|<center>ours</center><center><audio src="wavs/male2male/ours/1188-133604-0029_4077-13751-0006_s0.wav" controls preload></audio></center>|<img src="wavs/male2male/ours/4077-13754-0011_2300-131720-0008_s0.png"/>|<center>ground truth</center><center><audio src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.wav" controls preload></audio></center>|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>|
-
-## Sample : Male - Male
-| <center>audio</center> | <center>spectrogram</center> |
-| :--- | :--- |
-|<center>mixture speech</center><center><audio src="wavs/male2male/4077-13754-0011_2300-131720-0008.wav" controls preload></audio></center>|<img src="wavs/male2male/4077-13754-0011_2300-131720-0008.png"/>|<center>enrollment utterance</center><audio src="wavs/male2male/1188-133604-0029_4077-13751-0006.wav" controls preload></audio></center>|<img src="wavs/male2male/1188-133604-0029_4077-13751-0006.png"/>|<center>baseline</center><center><audio src="wavs/male2male/baseline/1188-133604-0029_4077-13751-0006_s0.wav" controls preload></audio></center>|<img src="wavs/male2male/baseline/4077-13754-0011_2300-131720-0008_s0.png"/>|<center>ours</center><center><audio src="wavs/male2male/ours/1188-133604-0029_4077-13751-0006_s0.wav" controls preload></audio></center>|<img src="wavs/male2male/ours/4077-13754-0011_2300-131720-0008_s0.png"/>|<center>ground truth</center><center><audio src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.wav" controls preload></audio></center>|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>|
-
-## Sample : Male - Male
-| <center>audio</center> | <center>spectrogram</center> |
-| :--- | :--- |
-|<center>mixture speech</center><center><audio src="wavs/male2male/4077-13754-0011_2300-131720-0008.wav" controls preload></audio></center>|<img src="wavs/male2male/4077-13754-0011_2300-131720-0008.png"/>|<center>enrollment utterance</center><audio src="wavs/male2male/1188-133604-0029_4077-13751-0006.wav" controls preload></audio></center>|<img src="wavs/male2male/1188-133604-0029_4077-13751-0006.png"/>|<center>baseline</center><center><audio src="wavs/male2male/baseline/1188-133604-0029_4077-13751-0006_s0.wav" controls preload></audio></center>|<img src="wavs/male2male/baseline/4077-13754-0011_2300-131720-0008_s0.png"/>|<center>ours</center><center><audio src="wavs/male2male/ours/1188-133604-0029_4077-13751-0006_s0.wav" controls preload></audio></center>|<img src="wavs/male2male/ours/4077-13754-0011_2300-131720-0008_s0.png"/>|<center>ground truth</center><center><audio src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.wav" controls preload></audio></center>|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>|
-
-| 123 | 123|
-| :--- | :--- |
-|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>
-
-
 ## Model Overview
 <img src="imgs/model.png" alt="Overall Architecture"/>
-
-## Demo
-### Samples from the target female singer.
-
-| <audio src="wavs/4446-2271-0021_4970-29093-0013_mix.wav" controls preload></audio> | <audio src="wavs/4446-2271-0012_1580-141083-0012_e0.wav" controls preload></audio> | <audio src="wavs/4446-2271-0021_4970-29093-0013_est0.wav" controls preload></audio> | <audio src="wavs/4446-2271-0021_4970-29093-0013_rto0.wav" controls preload></audio> | <audio src="wavs/4446-2271-0021_4970-29093-0013_gt0.wav" controls preload></audio>
-| <img src="imgs/model.png" alt="Overall Architecture"/> | <img src="imgs/model.png" alt="Overall Architecture"/> | <img src="imgs/model.png" alt="Overall Architecture"/> | <img src="imgs/model.png" alt="Overall Architecture"/> | <img src="imgs/model.png" alt="Overall Architecture"/> |
-
-| 1 | 2 | 3 | 4 | 
-| :--- | :--- | :--- | :--- |
-| <audio src="wavs/ref/1.wav" controls preload></audio> | <audio src="wavs/ref/2.wav" controls preload></audio> | <audio src="wavs/ref/3.wav" controls preload></audio> | <audio src="wavs/ref/4.wav" controls preload></audio> |
-| --- | --- | --- | --- |
-
-
-| Source | Converted (FastSVC) | Converted (DiffSVC) |
-| :--- | :--- | :--- |
-| <audio src="wavs/source/0.wav" controls preload></audio> | <audio src="wavs/fastsvc/0.wav" controls preload></audio> | <audio src="wavs/diffsvc/0.wav" controls preload></audio> | 
-| --- | --- | --- |
-| <audio src="wavs/source/1.wav" controls preload></audio> | <audio src="wavs/fastsvc/1.wav" controls preload></audio> | <audio src="wavs/diffsvc/1.wav" controls preload></audio> | 
-| --- | --- | --- |
-| <audio src="wavs/source/2.wav" controls preload></audio> | <audio src="wavs/fastsvc/2.wav" controls preload></audio> | <audio src="wavs/diffsvc/2.wav" controls preload></audio> | 
-| --- | --- | --- |
-| <audio src="wavs/source/3.wav" controls preload></audio> | <audio src="wavs/fastsvc/3.wav" controls preload></audio> | <audio src="wavs/diffsvc/3.wav" controls preload></audio> | 
-| --- | --- | --- |
-| <audio src="wavs/source/4.wav" controls preload></audio> | <audio src="wavs/fastsvc/4.wav" controls preload></audio> | <audio src="wavs/diffsvc/4.wav" controls preload></audio> | 
-| --- | --- | --- |
-| <audio src="wavs/source/5.wav" controls preload></audio> | <audio src="wavs/fastsvc/5.wav" controls preload></audio> | <audio src="wavs/diffsvc/5.wav" controls preload></audio> | 
-| --- | --- | --- |
-| <audio src="wavs/source/6.wav" controls preload></audio> | <audio src="wavs/fastsvc/6.wav" controls preload></audio> | <audio src="wavs/diffsvc/6.wav" controls preload></audio> | 
-| --- | --- | --- |
-| <audio src="wavs/source/7.wav" controls preload></audio> | <audio src="wavs/fastsvc/7.wav" controls preload></audio> | <audio src="wavs/diffsvc/7.wav" controls preload></audio> | 
-| --- | --- | --- |
-| <audio src="wavs/source/8.wav" controls preload></audio> | <audio src="wavs/fastsvc/8.wav" controls preload></audio> | <audio src="wavs/diffsvc/8.wav" controls preload></audio> | 
-| --- | --- | --- |
-| <audio src="wavs/source/9.wav" controls preload></audio> | <audio src="wavs/fastsvc/9.wav" controls preload></audio> | <audio src="wavs/diffsvc/9.wav" controls preload></audio> | 
-| --- | --- | --- |
-
----
 
 ### Links
 
