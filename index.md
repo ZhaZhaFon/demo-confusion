@@ -9,10 +9,13 @@
 ## Introduction
 This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_Cracking Target Confusion in End-to-end Speaker Extraction_**.
 
-## Audio samples
+## Male - Male
 
 | speech mixture | enrollment utterance | baseline | ours | ground-truth speech | 
 | :--- | :--- | :--- | :--- | :--- |
+|<audio src="wavs/male2male/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|<audio src="wavs/male2male/6829-68769-0023_5105-28240-0012.wav" controls preload></audio>|<audio src="wavs/male2male/baseline/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|<audio src="wavs/male2male/ours/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|<audio src="wavs/male2male/ours/908-31957-0007_5105-28233-0000.wav" controls preload></audio>|
+|<img src="wavs/male2male/908-31957-0007_5105-28233-0000.png"></img>|<img src="wavs/male2male/6829-68769-0023_5105-28240-0012.png"></img>|<img src="wavs/male2male/baseline/908-31957-0007_5105-28233-0000.png"></img>|<img src="wavs/male2male/ours/908-31957-0007_5105-28233-0000.png"></img>|<img src="wavs/male2male/gt/908-31957-0007_5105-28233-0000.png"></img>|
+
 | <audio src="wavs/4446-2271-0021_4970-29093-0013_mix.wav" controls preload></audio> | <audio src="wavs/4446-2271-0012_1580-141083-0012_e0.wav" controls preload></audio> | <audio src="wavs/4446-2271-0021_4970-29093-0013_est0.wav" controls preload></audio> | <audio src="wavs/4446-2271-0021_4970-29093-0013_rto0.wav" controls preload></audio> | <audio src="wavs/4446-2271-0021_4970-29093-0013_gt0.wav" controls preload></audio>
 | <img src="imgs/model.png" alt="Overall Architecture"/> | <img src="imgs/model.png" alt="Overall Architecture"/> | <img src="imgs/model.png" alt="Overall Architecture"/> | <img src="imgs/model.png" alt="Overall Architecture"/> | <img src="imgs/model.png" alt="Overall Architecture"/> |
 | --- | --- | --- | --- | --- |
@@ -27,6 +30,7 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 | :--- | :--- | :--- | :--- |
 | <audio src="wavs/ref/1.wav" controls preload></audio> | <audio src="wavs/ref/2.wav" controls preload></audio> | <audio src="wavs/ref/3.wav" controls preload></audio> | <audio src="wavs/ref/4.wav" controls preload></audio> |
 | --- | --- | --- | --- |
+
 
 | Source | Converted (FastSVC) | Converted (DiffSVC) |
 | :--- | :--- | :--- |
