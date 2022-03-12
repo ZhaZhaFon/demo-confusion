@@ -46,7 +46,7 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 
 ### Links
 
-[Paper] [Bibtex]
+[Paper] [Bibtex] [[github.io](https://github.com/ZhaZhaFon/demo-confusion)]
 
 ### References
 
