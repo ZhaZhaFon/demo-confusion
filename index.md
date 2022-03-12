@@ -11,7 +11,7 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 
 ## Examples
 
-### Female - Male Mixture
+### Female - Male Mixtures
 
 | <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center><center>ours</center> | <center>ground-truth</center> | 
 | :--- | :--- | :--- | :--- | :--- |
@@ -20,9 +20,9 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 |<audio src="wavs/male2female/5105-28240-0005_6829-68769-0010.wav" controls preload></audio>|<audio src="wavs/male2female/5105-28241-0019_2830-3980-0050.wav" controls preload></audio>|<audio src="wavs/male2female/baseline/5105-28240-0005_6829-68769-0010_s0.wav" controls preload></audio>|<audio src="wavs/male2female/ours/5105-28240-0005_6829-68769-0010_s0.wav" controls preload></audio>|<audio src="wavs/male2female/gt/5105-28240-0005_6829-68769-0010.wav" controls preload></audio>|
 |<img src="wavs/male2female/5105-28240-0005_6829-68769-0010.png"/>|<img src="wavs/male2female/5105-28241-0019_2830-3980-0050.png"/>|<img src="wavs/male2female/baseline/5105-28240-0005_6829-68769-0010_s0.png"/>|<img src="wavs/male2female/ours/45105-28240-0005_6829-68769-0010_s0.png"/>|<img src="wavs/male2male/gt/5105-28240-0005_6829-68769-0010.png"/>|
 |<audio src="wavs/male2female/3570-5695-0010_5105-28240-0015.wav" controls preload></audio>|<audio src="wavs/male2female/5683-32866-0001_5105-28241-0016.wav" controls preload></audio>|<audio src="wavs/male2female/baseline/3570-5695-0010_5105-28240-0015_s1.wav" controls preload></audio>|<audio src="wavs/male2female/ours/3570-5695-0010_5105-28240-0015_s1.wav" controls preload></audio>|<audio src="wavs/male2female/gt/3570-5695-0010_5105-28240-0015.wav" controls preload></audio>|
-|<img src="wavs/male2female/3570-5695-0010_5105-28240-0015.png"/>|<img src="wavs/male2female/15683-32866-0001_5105-28241-0016.png"/>|<img src="wavs/male2female/baseline/3570-5695-0010_5105-28240-0015_s1.png"/>|<img src="wavs/male2female/ours/3570-5695-0010_5105-28240-0015_s1.png"/>|<img src="wavs/male2female/gt/3570-5695-0010_5105-28240-0015.png"/>|
+|<img src="wavs/male2female/3570-5695-0010_5105-28240-0015.png"/>|<img src="wavs/male2female/5683-32866-0001_5105-28241-0016.png"/>|<img src="wavs/male2female/baseline/3570-5695-0010_5105-28240-0015_s1.png"/>|<img src="wavs/male2female/ours/3570-5695-0010_5105-28240-0015_s1.png"/>|<img src="wavs/male2female/gt/3570-5695-0010_5105-28240-0015.png"/>|
 
-### Male - Male Mixture
+### Male - Male Mixtures
 
 | <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center><center>ours</center> | <center>ground-truth</center> | 
 | :--- | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 |<audio src="wavs/male2male/61-70968-0014_8224-274384-0003.wav" controls preload></audio>|<audio src="wavs/male2male/1221-135767-0005_61-70970-0020.wav" controls preload></audio>|<audio src="wavs/male2male/baseline/61-70968-0014_8224-274384-0003_s0.wav" controls preload></audio>|<audio src="wavs/male2male/ours/61-70968-0014_8224-274384-0003_s0.wav" controls preload></audio>|<audio src="wavs/male2male/gt/61-70968-0014_8224-274384-0003.wav" controls preload></audio>|
 |<img src="wavs/male2male/61-70968-0014_8224-274384-0003.png"/>|<img src="wavs/male2male/1221-135767-0005_61-70970-0020.png"/>|<img src="wavs/male2male/baseline/61-70968-0014_8224-274384-0003_s0.png"/>|<img src="wavs/male2male/ours/61-70968-0014_8224-274384-0003_s0.png"/>|<img src="wavs/male2male/gt/61-70968-0014_8224-274384-0003.png"/>|
 
-### Female - Female Mixture
+### Female - Female Mixtures
 
 | <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center><center>ours</center> | <center>ground-truth</center> | 
 | :--- | :--- | :--- | :--- | :--- |
