@@ -36,7 +36,7 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 
 | 123 | 123|
 | :--- | :--- |
-|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>
+|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>|
 
 
 ## Model Overview
