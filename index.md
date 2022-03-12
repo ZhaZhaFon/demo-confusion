@@ -9,7 +9,9 @@
 ## Introduction
 This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_Cracking Target Confusion in End-to-end Speaker Extraction_**.
 
-## Male - Male
+## Examples
+
+### Male - Male Mixture
 
 | <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center><center>ours</center> | <center>ground-truth</center> | 
 | :--- | :--- | :--- | :--- | :--- |
@@ -20,7 +22,10 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 |<audio src="wavs/male2male/61-70968-0014_8224-274384-0003.wav" controls preload></audio>|<audio src="wavs/male2male/1221-135767-0005_61-70970-0020.wav" controls preload></audio>|<audio src="wavs/male2male/baseline/61-70968-0014_8224-274384-0003_s0.wav" controls preload></audio>|<audio src="wavs/male2male/ours/61-70968-0014_8224-274384-0003_s0.wav" controls preload></audio>|<audio src="wavs/male2male/gt/61-70968-0014_8224-274384-0003.wav" controls preload></audio>|
 |<img src="wavs/male2male/61-70968-0014_8224-274384-0003.png"/>|<img src="wavs/male2male/11221-135767-0005_61-70970-0020.png"/>|<img src="wavs/male2male/baseline/61-70968-0014_8224-274384-0003_s0.png"/>|<img src="wavs/male2male/ours/61-70968-0014_8224-274384-0003_s0.png"/>|<img src="wavs/male2male/gt/61-70968-0014_8224-274384-0003.png"/>|
 | --- | --- | --- | --- | --- |
-/home/jiangji/basic/codebase/demo-confusion/wavs/male2male/1221-135767-0005_61-70970-0020.png
+
+### Female - Female Mixture
+sdf
+
 
 ## Sample : Male - Male
 | <center>audio</center> | <center>spectrogram</center> |
