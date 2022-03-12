@@ -19,6 +19,14 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_C
 |<img src="wavs/male2male/4077-13754-0011_2300-131720-0008.png"/>|<img src="wavs/male2male/1188-133604-0029_4077-13751-0006.png"/>|<img src="wavs/male2male/baseline/4077-13754-0011_2300-131720-0008_s0.png"/>|<img src="wavs/male2male/ours/4077-13754-0011_2300-131720-0008_s0.png"/>|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>|
 | --- | --- | --- | --- | --- |
 
+| speech mixture |
+| :--- |
+|<img src="wavs/male2male/4077-13754-0011_2300-131720-0008.png"/>|
+|<img src="wavs/male2male/1188-133604-0029_4077-13751-0006.png"/>|
+|<img src="wavs/male2male/baseline/4077-13754-0011_2300-131720-0008_s0.png"/>|
+|<img src="wavs/male2male/ours/4077-13754-0011_2300-131720-0008_s0.png"/>|
+|<img src="wavs/male2male/gt/4077-13754-0011_2300-131720-0008.png"/>|
+
 
 
 ## Model Overview
