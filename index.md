@@ -1,6 +1,6 @@
 # <center> Cracking Target Confusion in End-to-end Speaker Extraction </center>
 
-<center> Zifeng Zhao<sup>1</sup>, Dongchao Yang<sup>1</sup>, Rongzhi Gu<sup>1</sup>, Yuexian Zou<sup>1,2</sup> </center> 
+<center> Zifeng Zhao<sup>1</sup>, Dongchao Yang<sup>1</sup>, Rongzhi Gu<sup>1</sup>, Haoran Zhang<sup>1</sup>, Yuexian Zou<sup>1,2</sup> </center> 
  
 <center> 1 Peking University </center>
 
