@@ -1,4 +1,4 @@
-# <center> Target Confusion: Analysis and Approaches </center>
+# <center> Target Confusion in End-to-end Speaker Extraction: Analysis and Approaches </center>
 
 <center> Zifeng Zhao<sup>1</sup>, Dongchao Yang<sup>1</sup>, Rongzhi Gu<sup>1</sup>, Haoran Zhang<sup>1</sup>, Yuexian Zou<sup>1,2</sup> </center> 
  
@@ -7,7 +7,7 @@
 <center> 2 Peng Cheng Laboratory</center>
 
 ## Introduction
-This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_Target Confusion: Analysis and Approaches_**. In the following, we will show some cases in which the baseline model comes across with **_target confusion problem_**, and compare them with our results.
+This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_Target Confusion in End-to-end Speaker Extraction: Analysis and Approaches_**. In the following, we will show some cases in which the baseline model comes across with **_target confusion problem_**, and compare them with our results.
 
 ## Examples
 
