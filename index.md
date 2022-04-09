@@ -46,7 +46,7 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_T
 
 ### Links
 
-[[Paper](https://arxiv.org/abs/2204.01355)] [Bibtex] [[Demo GitHub](https://github.com/ZhaZhaFon/demo-confusion)]
+[[Paper](https://arxiv.org/abs/2204.01355)] [Bibtex](bib.txt) [[Demo GitHub](https://github.com/ZhaZhaFon/demo-confusion)]
 
 ### References
 
