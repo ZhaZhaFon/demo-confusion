@@ -48,6 +48,11 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_T
 
 [[Paper](https://arxiv.org/abs/2204.01355)] [[Bibtex](bib.txt)] [[Demo GitHub](https://github.com/ZhaZhaFon/demo-confusion)]
 
+### News
+
+* 2022-06-15 Paper accepted by INTERSPEECH 2022  
+* 2022-04-15 Paper available on arXiv
+
 ### References
 
 [1] Delcroix M, Ochiai T, Zmolikova K, et al. Improving speaker discrimination of target speech extraction with time-domain speakerbeam[C]//ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020: 691-695.  
