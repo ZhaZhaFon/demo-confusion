@@ -6,5 +6,6 @@ This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper '_Ta
 
 ### News
 
+* 2022-09-08 Updated materials for INTERSPEECH 2022
 * 2022-06-15 Paper accepted by INTERSPEECH 2022
 * 2022-04-15 Paper available on arXiv
